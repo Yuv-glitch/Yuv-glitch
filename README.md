@@ -78,16 +78,6 @@ target_roles : Security Engineer · AppSec · Detection Engineering
 
 ---
 
-## 🎯 Current Focus
-
-```
-[▓▓▓▓▓▓▓▓░░]  Freelance Web Security Auditing (OWASP · DPDP Act 2023)
-[▓▓▓▓▓▓░░░░]  Bug Bounty @ Bugcrowd — API Security Track
-[▓▓▓░░░░░░░]  Deepfake Audio Detection (Wav2Vec2 · ASVspoof 2019)
-[▓▓░░░░░░░░]  GRC Portfolio — Risk Registers mapped to NIST CSF 2.0
-```
-
----
 
 ## 📜 Certifications & Labs
 
@@ -95,6 +85,7 @@ target_roles : Security Engineer · AppSec · Detection Engineering
 - 🧪 TryHackMe — Threat Hunting (Splunk/HealthHazard)
 - 🏴 picoCTF — Web Exploitation
 - 🔬 Custom ATT&CK lab: Wazuh SIEM + Atomic Red Team + auditd
+- 💾 Forcepoint DLP CASB
 
 ---
 

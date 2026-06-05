@@ -52,9 +52,6 @@ target_roles : Security Engineer · AppSec · Detection Engineering
 
 ## 🛠️ Projects
 
-### 🔵 [`ebpf-sentinel`](https://github.com/Yuv-glitch/ebpf-sentinel)
-> eBPF-based threat detection engine · BCC/Python · syscall-level monitoring · container security extensions
-
 ### 🔴 [`av-engine`](https://github.com/Yuv-glitch/av-engine)
 > YARA-based AV for Ubuntu · Shannon entropy scoring · quarantine system · inotify real-time monitoring · CLI
 

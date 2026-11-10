@@ -63,13 +63,11 @@ target_roles : Security Engineer · AppSec · Detection Engineering
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Languages 
 
 <div align="center">
 
-![Yuvraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuv-glitch&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuv-glitch&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9)
+![Top_Languages](https://skillicons.dev/icons?i=python,linux,docker,git,golang,rust,ubuntu)
 
 </div>
 
